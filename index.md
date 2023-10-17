@@ -2,7 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Deep NLP for hate speech detection
+
+Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
